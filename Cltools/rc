@@ -1,0 +1,5 @@
+REPO="https://raw.githubusercontent.com/farukbrowser/cln/main/"
+
+
+
+wget -O /root/.config/rclone/rclone.conf "${REPO}Cltools/rclone.conf"
